@@ -1,0 +1,115 @@
+﻿  main.cpp
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(30,89): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(31,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(129,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(134,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(135,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(138,84): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(139,84): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(178,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(179,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(180,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(181,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(183,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(214,31): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(215,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(215,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(219,68): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(228,44): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(229,55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(229,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(235,29): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(236,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(236,60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(239,33): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(240,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(240,58): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(243,31): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(244,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(244,60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(247,33): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(248,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(248,60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(251,34): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(252,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(252,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(254,36): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(254,23): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(255,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(262,32): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(262,24): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(262,54): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(263,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(263,62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(265,41): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(265,32): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(265,24): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(265,55): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(266,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(266,62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(268,43): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(268,34): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(268,25): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(268,57): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(269,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(269,62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(271,34): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(271,25): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(271,57): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(272,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(272,62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(279,47): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(279,35): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(279,25): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(279,61): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(280,60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(280,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(283,47): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(283,34): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(283,24): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(284,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(286,34): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(286,24): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(287,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(289,47): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(289,34): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(289,24): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(290,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(292,34): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(292,24): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(293,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(296,45): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(296,32): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(297,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(297,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(299,47): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(299,34): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(299,24): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(300,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(300,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(302,47): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(302,34): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(302,24): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(303,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(303,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(310,43): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(310,99): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(347,16): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(351,16): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(356,14): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(359,14): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(363,14): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(366,14): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(370,14): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(373,14): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(387,16): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(387,30): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(390,16): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(390,30): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(400,12): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(401,13): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(404,12): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(405,13): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(409,12): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\OpenGL\main.cpp(412,12): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  OpenGL.vcxproj -> E:\Zalo Received Files\DHMT_Nhom7\HoangAnh\Tuan2\MoPhongThapCanCau (chuyen dong va tuong tac)\Debug\OpenGL.exe
